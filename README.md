@@ -1,7 +1,6 @@
-# project
+# Project
 
-A new Flutter project.
-
+A To-Do app for beginners with flutter and dart. Uses firewall to store data and retrieve. Uses simple animations. 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
